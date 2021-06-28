@@ -290,7 +290,5 @@ namespace DOAN.NET
                 this.Hide();
             }
         }
-
-        
     }
 }
